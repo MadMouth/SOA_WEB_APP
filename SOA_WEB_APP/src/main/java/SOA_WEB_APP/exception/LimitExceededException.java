@@ -1,0 +1,7 @@
+package SOA_WEB_APP.exception;
+
+public class LimitExceededException extends RuntimeException {
+    public LimitExceededException(String message) {
+        super(message);
+    }
+}
