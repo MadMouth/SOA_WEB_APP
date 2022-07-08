@@ -14,7 +14,7 @@ Endpoints:
 
 [delete] http://localhost:8080/api/v1/user/animal/{id} - удалить свое животное.
 
-[put] http://localhost:8080/api/v1/user/animal/{id} - изменить данные своего животного.
+[put] http://localhost:8080/api/v1/user/animal - изменить данные своего животного.
 
 Все ошибки возвращаются в ввиде JSON объекта.
 
