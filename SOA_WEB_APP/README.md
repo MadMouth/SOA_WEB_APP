@@ -4,7 +4,7 @@ Endpoints:
 
 [post] http://localhost:8080/api/v1/registration - для регистрации.
 
-[post] http://localhost:8080/api/v1/login - для аутентификации. (больше 10 попыток в  час - бан.)
+[post] http://localhost:8080/api/v1/login - для аутентификации. (больше 10 попыток за  час - бан.)
 
 [post] http://localhost:8080/api/v1/user/animal - для добавления своего животного.
 
