@@ -1,4 +1,4 @@
-SOA WEB APP. Тестовое задание.
+SOA WEB APP. 
 
 Endpoints:
 
